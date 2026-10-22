@@ -30,8 +30,9 @@ A **risk** is any potential event that could cause your pipeline to fail, produc
 After filling out the grid, list the risks you will focus on, starting with the **Critical** ones.
 
 * **Critical Risks to Address:**
-    1.  sd
-    2.  dsd
+    1. Age bias / unfair refusals
+    2. The model is checked only with AUC, and a slow value
+    3. Data is too old
 
 * **Major Risks to Mitigate:**
     1.  dsd
