@@ -30,9 +30,9 @@ A **risk** is any potential event that could cause your pipeline to fail, produc
 After filling out the grid, list the risks you will focus on, starting with the **Critical** ones.
 
 * **Critical Risks to Address:**
-    1.  
-    2.  
+    1.  sd
+    2.  dsd
 
 * **Major Risks to Mitigate:**
-    1.  
-    2.
+    1.  dsd
+    2. dsds
